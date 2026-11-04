@@ -1,6 +1,6 @@
 # FPGA VGA Display Demo
 
-Demo videos of a VGA display controller running on a Terasic **DE10-Lite** FPGA board. A white rectangle is drawn on a VGA monitor and controlled with the board's switches and push buttons.
+VGA display controller running on a Terasic **DE10-Lite** FPGA board. A white rectangle is drawn on a VGA monitor and controlled with the board's switches and push buttons.
 
 ## Controls
 
