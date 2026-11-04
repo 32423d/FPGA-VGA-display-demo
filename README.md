@@ -15,7 +15,7 @@ Demo videos of a VGA display controller running on a Terasic **DE10-Lite** FPGA 
 
 ## Features
 
-| # | Feature | What the clip shows | Clip |
+| # | Feature | Description | Video |
 |---|---|---|---|
 | 1 | Draw rectangle | A white 100×50 rectangle drawn on the screen, with its first pixel at (189, 269) | <video src="https://github.com/user-attachments/assets/39bd13f2-3bdb-447c-bfa4-fcac33207317" controls width="320"></video> |
 | 2 | Asynchronous reset | Pressing `KEY0` resets all registers and control signals to their default values | <video src="https://github.com/user-attachments/assets/d5e1c449-9db4-42d4-a1f1-46daa86161c2" controls width="320"></video> |
